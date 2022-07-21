@@ -10,4 +10,6 @@ The "Datasets" folder holds some of the datasets used, all datasets can be found
 
 For the most part, this module was developed in Orange software (https://orangedatamining.com) to explain the basics of data science, so most of the lessons are not present in this repository.
 
+Some lessons were developed in groups, and since they were not completely done by me they will not be present in this repository.
+
 All documents (this file being the only exception) are in Brazilian Portuguese.
